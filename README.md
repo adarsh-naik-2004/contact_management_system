@@ -19,3 +19,7 @@ The remove_contact method removes a contact from the CSV file based on the provi
 The search_by_id, search_by_name, and search_by_group methods search for contacts based on the provided user ID, name, or group, respectively. They display the search results in the GUI's text widget (search) if any matching contacts are found.
 
 The AddContactWindow, EditContactWindow, RemoveContactWindow, and SearchContactWindow classes define separate windows for adding, editing, removing, and searching contacts, respectively. They inherit from the Toplevel class of tkinter and create the necessary widgets (labels, entry fields, buttons) for user interaction.
+
+![image](https://github.com/adarsh-naik-2004/contact_management_system/assets/130145440/8265b293-4a13-4e0d-a1ae-0214e0d55334)
+
+
