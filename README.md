@@ -1,4 +1,4 @@
-# contact_management_system
+# Contact-Management-System
 
 The script begins with the necessary imports: csv for working with CSV files and tkinter for creating the GUI. The messagebox module from tkinter is also imported for displaying messages.
 
